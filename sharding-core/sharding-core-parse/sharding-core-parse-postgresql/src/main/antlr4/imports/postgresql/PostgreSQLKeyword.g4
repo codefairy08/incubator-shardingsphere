@@ -477,4 +477,12 @@ OF
 
 UESCAPE
     : U E S C A P E
-    ; 
+    ;
+
+GROUPS
+    : G R O U P S
+    ;
+
+RECURSIVE
+    : R E C U R S I V E
+    ;
